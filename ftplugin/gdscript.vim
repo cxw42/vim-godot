@@ -20,7 +20,7 @@ setlocal cinkeys-=0#
 setlocal indentkeys-=0#
 setlocal suffixesadd=.gd
 setlocal commentstring=#\ %s
-setlocal comments=b:#,fb:-
+setlocal comments=b:#,b:##
 setlocal foldignore=
 setlocal foldexpr=GDScriptFoldLevel()
 setlocal noexpandtab
